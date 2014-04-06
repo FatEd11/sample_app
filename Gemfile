@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.0.4'
 gem 'bootstrap-sass'
 gem 'sprockets', '2.11.0'
+gem 'bcrypt'
 
 group :development, :test do
   gem 'rspec-rails', '2.13.1'
