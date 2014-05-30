@@ -9,7 +9,7 @@ gem 'will_paginate'
 gem 'bootstrap-will_paginate'
 
 group :development, :test do
-  gem 'rspec-rails', '2.13.1'
+  gem 'rspec-rails', '2.14.0.rc1'
   gem 'sqlite3'
 end
 
