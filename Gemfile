@@ -7,6 +7,7 @@ gem 'bcrypt'
 gem 'faker', '1.1.2'
 gem 'will_paginate'
 gem 'bootstrap-will_paginate'
+gem 'mail_form'
 
 group :development, :test do
   gem 'rspec-rails', '2.14.0.rc1'
